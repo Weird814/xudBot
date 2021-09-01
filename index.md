@@ -2,36 +2,14 @@
 
 xudBot is a simple to use, user-friendly discord selfbot with over 270+ commands at your disposal.
 
-Bugs and glitches should be reported via our [Discord Server](https://discord.gg/fpM3Ew5u2S)
+Bugs and glitches should be reported via our [Discord Server.](https://discord.gg/fpM3Ew5u2S)
 
-### Markdown
+### Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+pip3 install -r requirements.txt
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Weird814/xudBot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Add your token in data/config.json run by doing python3 selfbot.py
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with xudBot? Check out our [Support Server](https://discord.gg/fpM3Ew5u2S) and we’ll help you sort it out or [Reinstall xudBot](https://support.github.com/contact).

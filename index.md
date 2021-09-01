@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## xudBot
 
-You can use the [editor on GitHub](https://github.com/Weird814/xudBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+xudBot is a simple to use, user-friendly discord selfbot with over 270+ commands at your disposal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bugs and glitches should be reported via our [Discord Server](https://discord.gg/fpM3Ew5u2S)
 
 ### Markdown
 

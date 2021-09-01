@@ -1,6 +1,6 @@
 ## xudBot
 
-xudBot is a simple to use, user-friendly discord selfbot with over 270+ commands at your disposal.
+xudBot is a simple to use, user-friendly discord selfbot with over 70+ commands at your disposal.
 
 Bugs and glitches should be reported via our [Discord Server.](https://discord.gg/fpM3Ew5u2S)
 
